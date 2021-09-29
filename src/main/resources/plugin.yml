@@ -1,4 +1,5 @@
 name: JDA
-version: 4.2.0_222
+version: 4.3.0_277
 author: scripthead
 main: me.totalfreedom.jda.JDA
+api-version: "1.17"
